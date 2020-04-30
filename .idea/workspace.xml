@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f285b9ed-6cae-4704-a4df-bc92a82d000c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bGGSIEskK46jEopzCQlAySXcQj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f285b9ed-6cae-4704-a4df-bc92a82d000c" name="Default Changelist" comment="" />
+      <created>1588251014778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588251014778</updated>
+      <workItem from="1588251016208" duration="1357000" />
+    </task>
+    <task id="LOCAL-00001" summary="have a test">
+      <created>1588251905754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588251905754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="have a test" />
+    <option name="LAST_COMMIT_MESSAGE" value="have a test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="249" key="CommitChangelistDialog2" timestamp="1588252561927">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="618" y="249" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1588252561927" />
+    <state x="192" y="125" key="DiffContextDialog" timestamp="1588251899145">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="192" y="125" key="DiffContextDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1588251899145" />
+    <state x="795" y="311" key="FileChooserDialogImpl" timestamp="1588251347015">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="795" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1588251347015" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1588252572796">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1588252572796" />
+    <state x="704" y="331" key="git4idea.merge.GitMergeDialog" timestamp="1588252253956">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="704" y="331" key="git4idea.merge.GitMergeDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1588252253956" />
+  </component>
+</project>
